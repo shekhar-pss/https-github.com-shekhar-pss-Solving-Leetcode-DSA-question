@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
