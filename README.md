@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
