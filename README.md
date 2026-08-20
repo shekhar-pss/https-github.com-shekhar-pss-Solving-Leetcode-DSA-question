@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
