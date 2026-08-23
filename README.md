@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0006-zigzag-conversion) |
 ## Manacher
 |  |
 | ------- |
