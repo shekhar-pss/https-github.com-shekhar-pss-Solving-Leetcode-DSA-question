@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0486-predict-the-winner) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shekhar-pss/https-github.com-shekhar-pss-Solving-Leetcode-DSA-question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
